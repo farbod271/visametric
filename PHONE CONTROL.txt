@@ -1,0 +1,8 @@
+responseMail = 1;
+phoneControlStatus = false;
+sira = null;
+phoneResponse = "";
+emailControlStatus = false;
+emailResponse = "";
+passportControlStatus = false;
+passportResponse = "";
