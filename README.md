@@ -1,4 +1,4 @@
-# Visa Appointment Management System
+# Bypassing visaetric crashes with js injection in the console
 
 This repository is for bypassing the hassle of making an appointment in visametric. i wrote this code to get an appointment on the site. their servers would crash immediately when an appointment was availble. and the only way to even see the time slots was via code and bypassing the 502 error codes.
 
